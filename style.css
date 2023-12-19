@@ -4,6 +4,7 @@ ul{
     margin: 2rem;
     display: flex;
     padding-top: 1rem;
+    padding-left: 20;
 }
 
     .navbar>nav{ 
